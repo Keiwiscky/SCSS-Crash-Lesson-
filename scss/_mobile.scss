@@ -1,0 +1,14 @@
+@media (max-width:700px) {
+#showcase {
+    height: 400%;
+
+    #showcase-content {
+        text-align: center;
+        margin-top: 50px;
+
+        img {
+            display: none;
+        }
+    }
+}
+}
